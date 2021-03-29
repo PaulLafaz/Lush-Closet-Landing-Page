@@ -1,20 +1,21 @@
-# lushcloset-web: Landing page/ demo
+# Lush CLoset Landing page Demo
 
-## Build Setup
+This repository contains code of my first attemp to create a Landing page for a client
+as part of our annual Software Development and Engineering Project of Swinburne University of Technology.
 
-```bash
-# install dependencies
-$ npm install
+This is my initial version that I've attempted to create which I also deployed online for you to check out.
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+### Check out the link to the site
+https://thelushcloset.netlify.app/
 
-# build for production and launch server
-$ npm run build
-$ npm run start
 
-# generate static project
-$ npm run generate
-```
+### Things worth noting:
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+* This page is hosted for free on **Netlify**
+* The page was created using the web applicaton framework **Nuxt.js**
+* The page displays a few photos of what the mobile application looks like which was developed by another team.
+* Main purpose of this page is to promote the sale of the mobile application once its developement is completed in the future.
+* This is just a demo and it does not depict the final product in any way.
+
+
+
