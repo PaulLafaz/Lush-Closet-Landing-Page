@@ -20,33 +20,6 @@
             class="navbar-menu"
             :class="{ 'is-active': showNav }"
           >
-            <div class="navbar-end">
-              <span class="navbar-item">
-                <a
-                  href="https://chehanr.com/lushcloset-backend/"
-                  target="_blank"
-                  class="button is-info is-inverted"
-                >
-                  <!-- <span class="icon">
-                    <img src="~assets/icons/book-open.svg" alt="Docs" />
-                  </span> -->
-                  <span>API Docs</span>
-                </a>
-              </span>
-              <span class="navbar-item">
-                <a
-                  href="https://github.com/chehanr/lushcloset-backend/"
-                  target="_blank"
-                  class="button is-white"
-                >
-                  <span class="icon">
-                    <img src="~assets/icons/github.svg" alt="GitHub" />
-                  </span>
-
-                  <span>GitHub</span>
-                </a>
-              </span>
-            </div>
           </div>
         </div>
       </nav>
